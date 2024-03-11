@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T17:55:38.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="It7eZE8n0qLGoAHxrMCx" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T17:58:31.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="jTe-arS-9oZliQrqYRug" version="24.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -36,14 +36,29 @@
         <mxCell id="gzjT-cttMb3SWeKKo4pO-5" value="IP publique&lt;br&gt;10.60.11.9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="466.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gzjT-cttMb3SWeKKo4pO-13" value="&lt;div&gt;Routeur &lt;br&gt;&lt;/div&gt;&lt;div&gt;172.19.1.1&lt;br&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+        <mxCell id="gzjT-cttMb3SWeKKo4pO-13" value="&lt;div&gt;Routeur &lt;br&gt;&lt;/div&gt;&lt;div&gt;172.19.1.1&lt;br&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="520" y="507.55" width="91.45" height="64.9" as="geometry" />
         </mxCell>
+        <mxCell id="gzjT-cttMb3SWeKKo4pO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="gzjT-cttMb3SWeKKo4pO-15" target="gzjT-cttMb3SWeKKo4pO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzjT-cttMb3SWeKKo4pO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gzjT-cttMb3SWeKKo4pO-15" target="gzjT-cttMb3SWeKKo4pO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-15" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/wiring_hub.svg;" vertex="1" parent="1">
-          <mxGeometry x="362.38" y="660" width="94.12" height="64" as="geometry" />
+          <mxGeometry x="454.75" y="660" width="94.12" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="gzjT-cttMb3SWeKKo4pO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gzjT-cttMb3SWeKKo4pO-18" target="gzjT-cttMb3SWeKKo4pO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="629" y="595" />
+              <mxPoint x="580" y="595" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-18" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/wiring_hub.svg;" vertex="1" parent="1">
-          <mxGeometry x="470" y="660" width="94.12" height="64" as="geometry" />
+          <mxGeometry x="582.37" y="660" width="94.12" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
