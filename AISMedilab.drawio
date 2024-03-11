@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T18:06:48.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="j4ZQDB4xyzYjAbYH9ULV" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T18:07:22.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="CuAZ3VwwIbSGW2MtyG3E" version="24.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,9 @@
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-38" value="Virtualisation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="534.78" y="811.01" width="56.81" height="122.11" as="geometry" />
+        </mxCell>
+        <mxCell id="gzjT-cttMb3SWeKKo4pO-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284.1" y="910" width="558.18" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
