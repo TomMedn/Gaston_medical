@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T18:21:22.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="cXSUaUdDyemS3-hWWSe5" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T18:21:27.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="LjYu8ARofitgW3i7D1ae" version="24.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2022" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-1" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;horizontal=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="373" y="378.5" width="81.75" height="51.5" as="geometry" />
+          <mxGeometry x="373" y="407.25" width="81.75" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;shape=link;" edge="1" parent="1" source="gzjT-cttMb3SWeKKo4pO-2">
           <mxGeometry relative="1" as="geometry">
@@ -39,7 +39,7 @@
           <mxGeometry x="374.75" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-5" value="IP publique&lt;br&gt;10.60.11.9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="369.75" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="373" y="467.55" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-13" value="&lt;div&gt;Routeur &lt;br&gt;&lt;/div&gt;&lt;div&gt;172.19.1.1 /24&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="520" y="507.55" width="91.45" height="64.9" as="geometry" />
