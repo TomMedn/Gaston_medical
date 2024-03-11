@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T18:07:31.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="qgQejXy6F3KofCwG-jU1" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T18:08:26.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="M46pA1jnjKYUBjRbzy9i" version="24.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,8 +27,10 @@
         <mxCell id="gzjT-cttMb3SWeKKo4pO-1" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;horizontal=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="374.75" y="415" width="81.75" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="gzjT-cttMb3SWeKKo4pO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gzjT-cttMb3SWeKKo4pO-2" target="gzjT-cttMb3SWeKKo4pO-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gzjT-cttMb3SWeKKo4pO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;shape=link;" edge="1" parent="1" source="gzjT-cttMb3SWeKKo4pO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gzjT-cttMb3SWeKKo4pO-2" value="&lt;div align=&quot;center&quot;&gt;Fortigate&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;172.19.1.10 /24&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;align=center;" vertex="1" parent="1">
           <mxGeometry x="374.75" y="500" width="80" height="80" as="geometry" />
