@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:24:46.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="B6ENrtvOM0zUee8IW6Xu" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:25:04.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="QU5HuAIE7d1P6i7L-ro0" version="24.0.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2022" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -127,10 +127,10 @@
         <mxCell id="tuR7kRBJpSU3F783J2GU-16" value="WEB2.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.5.12 /24&lt;/div&gt;&lt;div&gt;VLAN 50&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="-170" y="580" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="tuR7kRBJpSU3F783J2GU-17" value="WEB1.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.5.13 /24&lt;/div&gt;&lt;div&gt;VLAN 50&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
+        <mxCell id="tuR7kRBJpSU3F783J2GU-17" value="HAPROXY1.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.5.13 /24&lt;/div&gt;&lt;div&gt;VLAN 50&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="-270" y="704" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="tuR7kRBJpSU3F783J2GU-18" value="WEB2.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.5.14 /24&lt;/div&gt;&lt;div&gt;VLAN 50&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
+        <mxCell id="tuR7kRBJpSU3F783J2GU-18" value="HAPROXY2.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.5.14 /24&lt;/div&gt;&lt;div&gt;VLAN 50&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="-170" y="704" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
