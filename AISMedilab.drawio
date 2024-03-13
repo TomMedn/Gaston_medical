@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:26:20.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="zlz6ZAuxY4Qezd2tRKM4" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:26:50.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="38T_2y3uCCXpfOUWSBm1" version="24.0.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2022" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -118,6 +118,9 @@
         <mxCell id="tuR7kRBJpSU3F783J2GU-10" value="ZABBIX.g4&lt;br&gt;Rocky Linux 9&lt;br&gt;&lt;div&gt;172.19.4.11 /24&lt;/div&gt;&lt;div&gt;VLAN 40&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="220" y="684" width="50" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="tuR7kRBJpSU3F783J2GU-19" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="530" width="200" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;VLAN 40&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="684" width="70" height="30" as="geometry" />
         </mxCell>
@@ -132,9 +135,6 @@
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-18" value="HAPROXY2.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.5.14 /24&lt;/div&gt;&lt;div&gt;VLAN 50&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="-70" y="684" width="50" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="tuR7kRBJpSU3F783J2GU-19" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="530" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-20" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;VLAN 50&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-135" y="540" width="70" height="30" as="geometry" />
