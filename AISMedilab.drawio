@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T21:09:09.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="7VkrfLwwvrvYSkLy3aYA" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T21:09:19.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="IWKppP2OdN_Tv1FwJ98J" version="24.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1234" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
           <mxGeometry x="-640" y="480" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wJu-3R8auVmLP37UFHNM-3" value="&lt;div&gt;HAPROXY_2&lt;/div&gt;&lt;div&gt;172.19.5.21 /24&lt;br&gt;VLAN 50&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="480" width="28.000000000000004" height="50" as="geometry" />
+          <mxGeometry x="-590" y="490" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
