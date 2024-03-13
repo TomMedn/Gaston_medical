@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:28:49.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="XaLNT9DAMGwaY8UtKnRd" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:28:58.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="oEEHbMCv7EkVFNW80gD8" version="24.0.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2022" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -140,13 +140,13 @@
           <mxGeometry x="-135" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-21" value="BDD1.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.7.11 /24&lt;/div&gt;&lt;div&gt;VLAN 70&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
-          <mxGeometry x="10" y="840" width="50" height="46" as="geometry" />
+          <mxGeometry x="30" y="830" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-24" value="BDD2.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.7.12 /24&lt;/div&gt;&lt;div&gt;VLAN 70&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
-          <mxGeometry x="110" y="840" width="50" height="46" as="geometry" />
+          <mxGeometry x="130" y="830" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-25" value="BDD2.g4&lt;br&gt;Debian 12&lt;br&gt;&lt;div&gt;172.19.7.12 /24&lt;/div&gt;&lt;div&gt;VLAN 70&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
-          <mxGeometry x="210" y="840" width="50" height="46" as="geometry" />
+          <mxGeometry x="220" y="830" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
