@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T09:40:17.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="a2g5DTX9CjEPp9Q0HMHt" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:40:21.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-gCz42r2jbHMWM3BZ4TL" version="24.0.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2261" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
           <mxGeometry x="-150" y="824" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;opacity=25;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="950" width="140.25" height="130" as="geometry" />
+          <mxGeometry x="-150" y="950" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tuR7kRBJpSU3F783J2GU-35" value="SPLUNK.g4&lt;br&gt;Splunk&amp;nbsp; &lt;br&gt;&lt;span class=&quot;w8qArf&quot;&gt;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;LrzXr kno-fv wHYlTd z8gr9e&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;172.19.10.11 /24&lt;/div&gt;&lt;div&gt;VLAN 100&lt;br&gt; &lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="-80" y="960" width="50" height="46" as="geometry" />
